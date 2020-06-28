@@ -6,9 +6,4 @@ public class myFirstClass {
         system.debug('myFirstMethod');
     }
 }
-<<<<<<< HEAD
 
-//this is in master
-=======
-//we are in br1
->>>>>>> br1 commit
