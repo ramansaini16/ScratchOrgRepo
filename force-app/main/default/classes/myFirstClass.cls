@@ -7,3 +7,7 @@ public class myFirstClass {
     }
 }
 
+<<<<<<< HEAD
+=======
+//br1 test 2
+>>>>>>> doggo
