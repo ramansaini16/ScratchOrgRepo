@@ -6,12 +6,3 @@ public class myFirstClass {
         system.debug('myFirstMethod');
     }
 }
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
-
->>>>>>> to master
-//br1 test 2
->>>>>>> doggo
